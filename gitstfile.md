@@ -1,16 +1,11 @@
 Favorites
 <table border="1" cellpadding="4" cellspacing="0">
 <tr>
-  <th style="text-align:center" center colspan="2">States</th>
- </tr>
-
-
-<tbody>
+  <th center colspan="2">States</th>
+</tr>
+<tr><td/><td/><td/> </tr>
 <tr valign="top"><td>*Here* and<br><strong>there</strong></td><td align="right">1,234,567</td></tr>
 <tr valign="top"><td>:+1:</td><td align="right">&#58+1&#58</td></tr>
-</tbody>
-<tfoot><tr valign="top"><td align="right">Sum:</td><td align="right">1,234,569</td></tr>
-</tfoot>
 </table>
 ||States||
 |:---: |:---:|:---: |
