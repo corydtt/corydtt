@@ -2,69 +2,34 @@ Favorites
 <table border="1" cellpadding="3" cellspacing="0">
 <th center colspan="3">States</th>
 <tr></tr>
-  <tr><td>:+1: &#58;+1&#58;</td><td>:-1: &#58-1&#58</td><td>:wave: &#58wave&#58</td></tr>
-<tr><td>:triumph: &#58triumph&#58</td><td>:rage: &#58rage&#58</td><td>:neutral_face: &#58neutral_face&#58</td></tr>
-<tr><td>:sparkles: &#58sparkles&#58</td><td>:star: &#58star&#58</td><td>:star2: &#58star2&#58</td></tr>
-<tr><td>:exclamation: &#58exclamation&#58</td><td>:question: &#58question&#58</td><td>:anger: &#58anger&#58</td></tr>
+<tr><td>:+1: <code>:+1:</code></td><td>:-1: <code>:-1:</code></td><td>:wave: <code>:wave:</code></td></tr>
+<tr><td>:triumph: <code>:triumph:</code></td><td>:rage: <code>:rage:</code></td><td>:neutral_face: <code>:neutral_face:</code></td></tr>
+<tr><td>:sparkles: <code>:sparkles:</code></td><td>:star: <code>:star:</code></td><td>:star2: <code>:star2:</code></td></tr>
+<tr><td>:exclamation: <code>:exclamation:</code></td><td>:question: <code>:question:</code></td><td>:anger: <code>:anger:</code></td></tr>
 <tr></tr>
 <th center colspan="3">Comments</th>
-<tr><td>:speech_balloon: &#58speech_balloon&#58</td><td>:thought_balloon: &#58thought_balloon&#58</td><td>:hourglass: &#58hourglass&#58</td></tr>
+<tr><td>:speech_balloon: <code>:speech_balloon:</code></td><td>:thought_balloon: <code>:thought_balloon:</code></td><td>:hourglass: <code>:hourglass:</code></td></tr>
 <tr></tr>
 <th center colspan="3">Content</th>
-<tr><td>:floppy_disk: &#58floppy_disk&#58</td><td>:cd: &#58cd&#58</td><td>:computer: &#58computer&#58</td></tr>
-<tr><td>:iphone: &#58iphone&#58</td><td>:pager: &#58pager&#58</td><td>:alarm_clock: &#58alarm_clock&#58</td></tr>
-<tr><td>:watch: &#58watch&#58</td><td>:bell: &#58bell&#58</td><td>:no_bell: &#58no_bell&#58</td></tr>
-<tr><td>:unlock: &#58unlock&#58</td><td>:lock: &#58lock&#58</td><td>:key: &#58key&#58</td></tr>
-<tr><td>:hammer: &#58hammer&#58</td><td>:wrench: &#58wrench&#58</td><td>:nut_and_bolt: &#58nut_and_bolt&#58</td></tr>
-<tr><td>:email: &#58email&#58</td><td>:inbox_tray: &#58inbox_tray&#58</td><td>:outbox_tray: &#58outbox_tray&#58</td></tr>
-<tr><td>:scroll: &#58scroll&#58</td><td>:clipboard: &#58clipboard&#58</td><td>:file_folder: &#58file_folder&#58</td></tr>
-<tr><td>:closed_book: &#58closed_book&#58</td><td>:green_book: &#58green_book&#58</td><td>:blue_book: &#58blue_book&#58</td></tr>
-<tr><td>:orange_book: &#58orange_book&#58</td><td>:notebook: &#58notebook&#58</td><td>:ledger: &#58ledger&#58</td></tr>
-<tr><td>:books: &#58books&#58</td><td>:bookmark: &#58bookmark&#58</td><td>:memo: &#58memo&#58</td></tr>
+<tr><td>:floppy_disk: <code>:floppy_disk:</code></td><td>:cd: <code>:cd:</code></td><td>:computer: <code>:computer:</code></td></tr>
+<tr><td>:iphone: <code>:iphone:</code></td><td>:pager: <code>:pager:</code></td><td>:alarm_clock: <code>:alarm_clock:</code></td></tr>
+<tr><td>:watch: <code>:watch:</code></td><td>:bell: <code>:bell:</code></td><td>:no_bell: <code>:no_bell:</code></td></tr>
+<tr><td>:unlock: <code>:unlock:</code></td><td>:lock: <code>:lock:</code></td><td>:key: <code>:key:</code></td></tr>
+<tr><td>:hammer: <code>:hammer:</code></td><td>:wrench: <code>:wrench:</code></td><td>:nut_and_bolt: <code>:nut_and_bolt:</code></td></tr>
+<tr><td>:email: <code>:email:</code></td><td>:inbox_tray: <code>:inbox_tray:</code></td><td>:outbox_tray: <code>:outbox_tray:</code></td></tr>
+<tr><td>:scroll: <code>:scroll:</code></td><td>:clipboard: <code>:clipboard:</code></td><td>:file_folder: <code>:file_folder:</code></td></tr>
+<tr><td>:closed_book: <code>:closed_book:</code></td><td>:green_book: <code>:green_book:</code></td><td>:blue_book: <code>:blue_book:</code></td></tr>
+<tr><td>:orange_book: <code>:orange_book:</code></td><td>:notebook: <code>:notebook:</code></td><td>:ledger: <code>:ledger:</code></td></tr>
+<tr><td>:books: <code>:books:</code></td><td>:bookmark: <code>:bookmark:</code></td><td>:memo: <code>:memo:</code></td></tr>
 <tr></tr>
 <th center colspan="3">Locations</th>
-<tr><td>:house: &#58house&#58</td><td>:school: &#58school&#58</td><td>:office: &#58office&#58</td></tr>
-<tr><td>:factory: &#58factory&#58</td></tr>
+<tr><td>:house: <code>:house:</code></td><td>:school: <code>:school:</code></td><td>:office: <code>:office:</code></td></tr>
+<tr><td>:factory: <code>:factory:</code></td></tr>
 <tr></tr>
 <th center colspan="3">Misc</th>
-<tr><td>:hash: &#58hash&#58</td><td>:arrow_backward: &#58arrow_backward&#58</td><td>:arrow_forward: &#58arrow_forward&#58</td></tr>
-<tr><td>:repeat: &#58repeat&#58</td><td>:link: &#58link&#58</td><td>:x: &#58x&#58</td></tr>
-<tr><td>:outbox_tray: &#58outbox_tray&#58</td><td>:heavy_check_mark: &#58heavy_check_mark&#58</td><td></tr>
-
-
-</table>
-
-
-||States||
-|:---: |:---:|:---: |
-|:+1: `:+1:`|:-1: `:-1:`|:wave: `:wave:`|
-|:triumph: `:triumph:`|:rage: `:rage:`|:neutral_face: `:neutral_face:`|
-|:sparkles: `:sparkles:`|:star: `:star:`|:star2: `:star2:`|
-|:exclamation: `:exclamation:`|:question: `:question:`|:anger: `:anger:`|
-||||
-||Comments||
-|:speech_balloon: `:speech_balloon:`|:thought_balloon: `:thought_balloon:`|:hourglass: `:hourglass:`|
-||||
-||Content||
-|:floppy_disk: `:floppy_disk:`|:cd: `:cd:`|:computer: `:computer:`|
-|:iphone: `:iphone:`|:pager: `:pager:`|:alarm_clock: `:alarm_clock:`|
-|:watch: `:watch:`|:bell: `:bell:`|:no_bell: `:no_bell:`|
-|:unlock: `:unlock:`|:lock: `:lock:`|:key: `:key:`|
-|:hammer: `:hammer:`|:wrench: `:wrench:`|:nut_ant_bolt: `:nut_ant_bolt:`|
-|:email: `:email:`|:inbox_tray: `:inbox_tray:`|:outbox_tray: `:outbox_tray:`|
-|:scroll: `:scroll:`|:clipboard: `:clipboard:`|:file_folder: `:file_folder:`|
-|:closed_book: `:closed_book:`|:green_book: `:green_book:`|:blue_book: `:blue_book:`|
-|:orange_book: `:orange_book:`|:notebook: `:notebook:`|:ledger: `:ledger:`|
-|:books: `:books:`|:bookmark: `:bookmark:`|:memo: `:memo:`|
-||||
-||Locations||
-|:house: `:house:`|:school: `:school:`|:office: `:office:`|
-|:factory: `:factory:`|||
-||||
-||Misc||
-|:hash: `:hash:`|:arrow_backward: `:arrow_backward:`|:arrow_forward: `:arrow_forward:`|
-|:repeat: `:repeat:`|:link: `:link:`|:x: `:x:`|
-|:outbox_tray: `:outbox_tray:`|:heavy_check_mark: `:heavy_check_mark:`||
+<tr><td>:hash: <code>:hash:</code></td><td>:arrow_backward: <code>:arrow_backward:</code></td><td>:arrow_forward: <code>:arrow_forward:</code></td></tr>
+<tr><td>:repeat: <code>:repeat:</code></td><td>:link: <code>:link:</code></td><td>:x: <code>:x:</code></td></tr>
+<tr><td>:outbox_tray: <code>:outbox_tray:</code></td><td>:heavy_check_mark: <code>:heavy_check_mark:</code></td><td></tr>
 
 
 
