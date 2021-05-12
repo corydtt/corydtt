@@ -1,3 +1,34 @@
+||States||
+|:+1: `:+1:`|:-1: `:-1:`|:wave: `:wave:`|
+|:triumph: `:triumph:`|:rage: `:rage:`|:neutral_face: `:neutral_face:`|
+|:sparkles: `:sparkles:`|:star: `:star:`|:star2: `:star2:`|
+|:exclamation: `:exclamation:`|:question: `:question:`|:anger: `:anger:`|
+0
+||Comments||
+|:speech_balloon: `:speech_balloon:`|:thought_balloon: `:thought_balloon:`|:hourglass: `:hourglass:`|
+0
+||Content||
+|:floppy_disk: `:floppy_disk:`|:cd: `:cd:`|:computer: `:computer:`|
+|:iphone: `:iphone:`|:pager: `:pager:`|:alarm_clock: `:alarm_clock:`|
+|:watch: `:watch:`|:bell: `:bell:`|:no_bell: `:no_bell:`|
+|:unlock: `:unlock:`|:lock: `:lock:`|:key: `:key:`|
+|:hammer: `:hammer:`|:wrench: `:wrench:`|:nut_ant_bolt: `:nut_ant_bolt:`|
+|:email: `:email:`|:inbox_tray: `:inbox_tray:`|:outbox_tray: `:outbox_tray:`|
+|:scroll: `:scroll:`|:clipboard: `:clipboard:`|:file_folder: `:file_folder:`|
+|:closed_book: `:closed_book:`|:green_book: `:green_book:`|:blue_book: `:blue_book:`|
+|:orange_book: `:orange_book:`|:notebook: `:notebook:`|:ledger: `:ledger:`|
+|:books: `:books:`|:bookmark: `:bookmark:`|:memo: `:memo:`|
+0
+||Locations||
+|:house: `:house:`|:school: `:school:`|:office: `:office:`|
+|:factory: `:factory:`| | ``|
+0
+||Misc||
+|:hash: `:hash:`|:arrow_backward: `:arrow_backward:`|:arrow_forward: `:arrow_forward:`|
+|:repeat: `:repeat:`|:link: `:link:`|:x: `:x:`|
+|:outbox_tray: `:outbox_tray:`|:heavy_check_mark: `:heavy_check_mark:`| ``|
+
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
