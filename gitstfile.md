@@ -1,7 +1,7 @@
 Favorites
 <table border="1" cellpadding="4" cellspacing="0">
 <tr>
-  <td text-align: center colspan="2">States</td>
+  <th style="text-align:left" center colspan="2">States</th>
  </tr>
 
 
