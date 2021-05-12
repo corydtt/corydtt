@@ -1,7 +1,4 @@
 Favorites
-<--
-|` `|` `|` `|
--->
 
 ||States||
 |:---: |:---:|:---: |
@@ -10,10 +7,10 @@ Favorites
 |:sparkles: `:sparkles:`|:star: `:star:`|:star2: `:star2:`|
 |:exclamation: `:exclamation:`|:question: `:question:`|:anger: `:anger:`|
 ||||
-|` `|Comments|` `|
+||Comments||
 |:speech_balloon: `:speech_balloon:`|:thought_balloon: `:thought_balloon:`|:hourglass: `:hourglass:`|
 ||||
-|` `|Content|` `|
+||Content||
 |:floppy_disk: `:floppy_disk:`|:cd: `:cd:`|:computer: `:computer:`|
 |:iphone: `:iphone:`|:pager: `:pager:`|:alarm_clock: `:alarm_clock:`|
 |:watch: `:watch:`|:bell: `:bell:`|:no_bell: `:no_bell:`|
@@ -25,11 +22,11 @@ Favorites
 |:orange_book: `:orange_book:`|:notebook: `:notebook:`|:ledger: `:ledger:`|
 |:books: `:books:`|:bookmark: `:bookmark:`|:memo: `:memo:`|
 ||||
-|` `|Locations|` `|
+||Locations||
 |:house: `:house:`|:school: `:school:`|:office: `:office:`|
 |:factory: `:factory:`|||
 ||||
-|` `|Misc|` `|
+||Misc||
 |:hash: `:hash:`|:arrow_backward: `:arrow_backward:`|:arrow_forward: `:arrow_forward:`|
 |:repeat: `:repeat:`|:link: `:link:`|:x: `:x:`|
 |:outbox_tray: `:outbox_tray:`|:heavy_check_mark: `:heavy_check_mark:`||
