@@ -1,6 +1,6 @@
 Favorites
 
-|:|States|:|
+||States||
 |---|---|---|
 |:+1: `:+1:`|:-1: `:-1:`|:wave: `:wave:`|
 |:triumph: `:triumph:`|:rage: `:rage:`|:neutral_face: `:neutral_face:`|
