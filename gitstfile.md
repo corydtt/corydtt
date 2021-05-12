@@ -1,10 +1,9 @@
 Favorites
 <table border="1" cellpadding="4" cellspacing="0">
-<thead>
 <tr>
   <td text-align: center colspan="2">States</td>
  </tr>
-</thead>
+
 
 <tbody>
 <tr valign="top"><td>*Here* and<br><strong>there</strong></td><td align="right">1,234,567</td></tr>
