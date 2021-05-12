@@ -1,7 +1,7 @@
 Favorites
 
 | |States| |
-| |---| |
+| |:---:| |
 |:+1: `:+1:`|:-1: `:-1:`|:wave: `:wave:`|
 |  |---|  |
 |:triumph: `:triumph:`|:rage: `:rage:`|:neutral_face: `:neutral_face:`|
@@ -39,7 +39,7 @@ Favorites
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
-|---|---|---|
+|:---:|:---:|:---:|
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
