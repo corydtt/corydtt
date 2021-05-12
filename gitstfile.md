@@ -2,7 +2,7 @@ Favorites
 
 ||States||
 |:---: |:---:|:---: |
-|:+1: `:+1:`|:-1: `:-1:`|:wave: `:wave:`|
+|:+1: \:+1\:|:-1: `:-1:`|:wave: `:wave:`|
 |:triumph: `:triumph:`|:rage: `:rage:`|:neutral_face: `:neutral_face:`|
 |:sparkles: `:sparkles:`|:star: `:star:`|:star2: `:star2:`|
 |:exclamation: `:exclamation:`|:question: `:question:`|:anger: `:anger:`|
