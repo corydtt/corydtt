@@ -3,7 +3,7 @@ Favorites
 <thead><tr><th align="left">Column 1</th><th align="right">#</th></tr></thead>
 <tbody>
 <tr valign="top"><td>*Here* and<br><strong>there</strong></td><td align="right">1,234,567</td></tr>
-<tr valign="top"><td>:+1:</td><td align="right">`:+1:`</td></tr>
+<tr valign="top"><td>:+1:</td><td align="right">&#58 +1 &#58</td></tr>
 </tbody>
 <tfoot><tr valign="top"><td align="right">Sum:</td><td align="right">1,234,569</td></tr>
 </tfoot>
