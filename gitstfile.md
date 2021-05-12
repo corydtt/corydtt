@@ -1,4 +1,5 @@
 Favorites
+
 <table border="1" cellpadding="3" cellspacing="0">
 <th center colspan="3">States</th>
 <tr></tr>
@@ -30,10 +31,7 @@ Favorites
 <tr><td>:hash: <code>:hash:</code></td><td>:arrow_backward: <code>:arrow_backward:</code></td><td>:arrow_forward: <code>:arrow_forward:</code></td></tr>
 <tr><td>:repeat: <code>:repeat:</code></td><td>:link: <code>:link:</code></td><td>:x: <code>:x:</code></td></tr>
 <tr><td>:outbox_tray: <code>:outbox_tray:</code></td><td>:heavy_check_mark: <code>:heavy_check_mark:</code></td><td></tr>
-
-
-
-
+</table>
 
 People
 
