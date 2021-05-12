@@ -2,8 +2,7 @@ Favorites
 <table border="1" cellpadding="4" cellspacing="0">
 <thead>
 <tr>
-  <td colspan="2">&nbsp;</td>
-  <td>&nbsp;</td>
+  <td colspan="2">States</td>
  </tr>
 </thead>
 
