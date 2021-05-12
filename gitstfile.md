@@ -1,15 +1,43 @@
 Favorites
-<table border="1" cellpadding="4" cellspacing="0">
-<tr>
-  <th center colspan="2">States</th>
-</tr>
-<tr><td/><td/><td/> </tr>
-<tr valign="top"><td>*Here* and<br><strong>there</strong></td><td align="right">1,234,567</td></tr>
-<tr valign="top"><td>:+1:</td><td align="right">&#58+1&#58</td></tr>
+<table border="1" cellpadding="3" cellspacing="0">
+<th center colspan="3">States</th>
+<tr></tr>
+  <tr><td>:+1: &#58;+1&#58;</td><td>:-1: &#58-1&#58</td><td>:wave: &#58wave&#58</td></tr>
+<tr><td>:triumph: &#58triumph&#58</td><td>:rage: &#58rage&#58</td><td>:neutral_face: &#58neutral_face&#58</td></tr>
+<tr><td>:sparkles: &#58sparkles&#58</td><td>:star: &#58star&#58</td><td>:star2: &#58star2&#58</td></tr>
+<tr><td>:exclamation: &#58exclamation&#58</td><td>:question: &#58question&#58</td><td>:anger: &#58anger&#58</td></tr>
+<tr></tr>
+<th center colspan="3">Comments</th>
+<tr><td>:speech_balloon: &#58speech_balloon&#58</td><td>:thought_balloon: &#58thought_balloon&#58</td><td>:hourglass: &#58hourglass&#58</td></tr>
+<tr></tr>
+<th center colspan="3">Content</th>
+<tr><td>:floppy_disk: &#58floppy_disk&#58</td><td>:cd: &#58cd&#58</td><td>:computer: &#58computer&#58</td></tr>
+<tr><td>:iphone: &#58iphone&#58</td><td>:pager: &#58pager&#58</td><td>:alarm_clock: &#58alarm_clock&#58</td></tr>
+<tr><td>:watch: &#58watch&#58</td><td>:bell: &#58bell&#58</td><td>:no_bell: &#58no_bell&#58</td></tr>
+<tr><td>:unlock: &#58unlock&#58</td><td>:lock: &#58lock&#58</td><td>:key: &#58key&#58</td></tr>
+<tr><td>:hammer: &#58hammer&#58</td><td>:wrench: &#58wrench&#58</td><td>:nut_and_bolt: &#58nut_and_bolt&#58</td></tr>
+<tr><td>:email: &#58email&#58</td><td>:inbox_tray: &#58inbox_tray&#58</td><td>:outbox_tray: &#58outbox_tray&#58</td></tr>
+<tr><td>:scroll: &#58scroll&#58</td><td>:clipboard: &#58clipboard&#58</td><td>:file_folder: &#58file_folder&#58</td></tr>
+<tr><td>:closed_book: &#58closed_book&#58</td><td>:green_book: &#58green_book&#58</td><td>:blue_book: &#58blue_book&#58</td></tr>
+<tr><td>:orange_book: &#58orange_book&#58</td><td>:notebook: &#58notebook&#58</td><td>:ledger: &#58ledger&#58</td></tr>
+<tr><td>:books: &#58books&#58</td><td>:bookmark: &#58bookmark&#58</td><td>:memo: &#58memo&#58</td></tr>
+<tr></tr>
+<th center colspan="3">Locations</th>
+<tr><td>:house: &#58house&#58</td><td>:school: &#58school&#58</td><td>:office: &#58office&#58</td></tr>
+<tr><td>:factory: &#58factory&#58</td></tr>
+<tr></tr>
+<th center colspan="3">Misc</th>
+<tr><td>:hash: &#58hash&#58</td><td>:arrow_backward: &#58arrow_backward&#58</td><td>:arrow_forward: &#58arrow_forward&#58</td></tr>
+<tr><td>:repeat: &#58repeat&#58</td><td>:link: &#58link&#58</td><td>:x: &#58x&#58</td></tr>
+<tr><td>:outbox_tray: &#58outbox_tray&#58</td><td>:heavy_check_mark: &#58heavy_check_mark&#58</td><td></tr>
+
+
 </table>
+
+
 ||States||
 |:---: |:---:|:---: |
-|:+1: \:+1\:|:-1: `:-1:`|:wave: `:wave:`|
+|:+1: `:+1:`|:-1: `:-1:`|:wave: `:wave:`|
 |:triumph: `:triumph:`|:rage: `:rage:`|:neutral_face: `:neutral_face:`|
 |:sparkles: `:sparkles:`|:star: `:star:`|:star2: `:star2:`|
 |:exclamation: `:exclamation:`|:question: `:question:`|:anger: `:anger:`|
