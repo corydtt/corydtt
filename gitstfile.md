@@ -3,34 +3,54 @@ Favorites
 <table border="1" cellpadding="3" cellspacing="0">
 <th center colspan="3">States</th>
 <tr></tr>
-<tr><td>:+1: <code>:+1:</code></td><td>:-1: <code>:-1:</code></td><td>:wave: <code>:wave:</code></td></tr>
-<tr><td>:triumph: <code>:triumph:</code></td><td>:rage: <code>:rage:</code></td><td>:neutral_face: <code>:neutral_face:</code></td></tr>
-<tr><td>:sparkles: <code>:sparkles:</code></td><td>:star: <code>:star:</code></td><td>:star2: <code>:star2:</code></td></tr>
-<tr><td>:exclamation: <code>:exclamation:</code></td><td>:question: <code>:question:</code></td><td>:anger: <code>:anger:</code></td></tr>
+    <tr><td>:+1: <code>:+1:</code></td><td>:-1: <code>:-1:</code></td><td>:wave: <code>:wave:</code></td></tr>
+    <tr><td>:triumph: <code>:triumph:</code></td><td>:rage: <code>:rage:</code></td><td>:neutral_face: <code>:neutral_face:</code></td></tr>
+    <tr><td>:sparkles: <code>:sparkles:</code></td><td>:star: <code>:star:</code></td><td>:star2: <code>:star2:</code></td></tr>
+    <tr><td>:exclamation: <code>:exclamation:</code></td><td>:question: <code>:question:</code></td><td>:anger: <code>:anger:</code></td></tr>
+  <tr><td>:coffin: <code>:coffin:</code></td></tr>
+ <!---->
 <tr></tr>
+  
+  
 <th center colspan="3">Comments</th>
-<tr><td>:speech_balloon: <code>:speech_balloon:</code></td><td>:thought_balloon: <code>:thought_balloon:</code></td><td>:hourglass: <code>:hourglass:</code></td></tr>
+    <tr><td>:speech_balloon: <code>:speech_balloon:</code></td><td>:thought_balloon: <code>:thought_balloon:</code></td><td>:hourglass: <code>:hourglass:</code></td></tr>
 <tr></tr>
+
+
+
 <th center colspan="3">Content</th>
-<tr><td>:floppy_disk: <code>:floppy_disk:</code></td><td>:cd: <code>:cd:</code></td><td>:computer: <code>:computer:</code></td></tr>
-<tr><td>:iphone: <code>:iphone:</code></td><td>:pager: <code>:pager:</code></td><td>:alarm_clock: <code>:alarm_clock:</code></td></tr>
-<tr><td>:watch: <code>:watch:</code></td><td>:bell: <code>:bell:</code></td><td>:no_bell: <code>:no_bell:</code></td></tr>
-<tr><td>:unlock: <code>:unlock:</code></td><td>:lock: <code>:lock:</code></td><td>:key: <code>:key:</code></td></tr>
-<tr><td>:hammer: <code>:hammer:</code></td><td>:wrench: <code>:wrench:</code></td><td>:nut_and_bolt: <code>:nut_and_bolt:</code></td></tr>
-<tr><td>:email: <code>:email:</code></td><td>:inbox_tray: <code>:inbox_tray:</code></td><td>:outbox_tray: <code>:outbox_tray:</code></td></tr>
-<tr><td>:scroll: <code>:scroll:</code></td><td>:clipboard: <code>:clipboard:</code></td><td>:file_folder: <code>:file_folder:</code></td></tr>
-<tr><td>:closed_book: <code>:closed_book:</code></td><td>:green_book: <code>:green_book:</code></td><td>:blue_book: <code>:blue_book:</code></td></tr>
-<tr><td>:orange_book: <code>:orange_book:</code></td><td>:notebook: <code>:notebook:</code></td><td>:ledger: <code>:ledger:</code></td></tr>
-<tr><td>:books: <code>:books:</code></td><td>:bookmark: <code>:bookmark:</code></td><td>:memo: <code>:memo:</code></td></tr>
+    <tr><td>:floppy_disk: <code>:floppy_disk:</code></td><td>:cd: <code>:cd:</code></td><td>:computer: <code>:computer:</code></td></tr>
+    <tr><td>:iphone: <code>:iphone:</code></td><td>:pager: <code>:pager:</code></td><td>:alarm_clock: <code>:alarm_clock:</code></td></tr>
+    <tr><td>:watch: <code>:watch:</code></td><td>:bell: <code>:bell:</code></td><td>:no_bell: <code>:no_bell:</code></td</tr>
+    <tr><td>:unlock: <code>:unlock:</code></td><td>:lock: <code>:lock:</code></td><td>:key: <code>:key:</code></td></tr>
+    <tr><td>:hammer: <code>:hammer:</code></td><td>:wrench: <code>:wrench:</code></td><td>:nut_and_bolt: <code>:nut_and_bolt:</code></td></tr>
+    <tr><td>:email: <code>:email:</code></td><td>:inbox_tray: <code>:inbox_tray:</code></td><td>:outbox_tray: <code>:outbox_tray:</code></td></tr>
+    <tr><td>:scroll: <code>:scroll:</code></td><td>:clipboard: <code>:clipboard:</code></td><td>:file_folder: <code>:file_folder:</code></td></tr>
+    <tr><td>:closed_book: <code>:closed_book:</code></td><td>:green_book: <code>:green_book:</code></td><td>:blue_book: <code>:blue_book:</code></td></tr>
+    <tr><td>:orange_book: <code>:orange_book:</code></td><td>:notebook: <code>:notebook:</code></td><td>:ledger: <code>:ledger:</code></td></tr>
+    <tr><td>:books: <code>:books:</code></td><td>:bookmark: <code>:bookmark:</code></td><td>:memo: <code>:memo:</code></td></tr>
+  <tr><td>:package: <code>:package:</code></td><td>:toolbox:<code>:toolbox:</code></td></tr>
 <tr></tr>
-<th center colspan="3">Locations</th>
-<tr><td>:house: <code>:house:</code></td><td>:school: <code>:school:</code></td><td>:office: <code>:office:</code></td></tr>
-<tr><td>:factory: <code>:factory:</code></td></tr>
+  
+  
+ <th center colspan="3">Locations</th>
+    <tr><td>:house: <code>:house:</code></td><td>:school: <code>:school:</code></td><td>:office: <code>:office:</code></td></tr>
+    <tr><td>:factory: <code>:factory:</code></td></tr>
 <tr></tr>
-<th center colspan="3">Misc</th>
-<tr><td>:hash: <code>:hash:</code></td><td>:arrow_backward: <code>:arrow_backward:</code></td><td>:arrow_forward: <code>:arrow_forward:</code></td></tr>
-<tr><td>:repeat: <code>:repeat:</code></td><td>:link: <code>:link:</code></td><td>:x: <code>:x:</code></td></tr>
-<tr><td>:outbox_tray: <code>:outbox_tray:</code></td><td>:heavy_check_mark: <code>:heavy_check_mark:</code></td><td></tr>
+
+
+
+<th center colspan="3">People</th>
+<tr><td>:office_worker: <code>:office_worker:</code></td></td><td>:construction_worker:<code>:construction_worker:</code</td><td>:standing_person:<code>:standing_person:</code></td></tr>
+
+
+
+   <th center colspan="3">Misc</th>
+    <tr><td>:hash: <code>:hash:</code></td><td>:arrow_backward: <code>:arrow_backward:</code></td><td>:arrow_forward: <code>:arrow_forward:</code></td></tr>
+    <tr><td>:repeat: <code>:repeat:</code></td><td>:link: <code>:link:</code></td><td>:x: <code>:x:</code></td></tr>
+    <tr><td>:outbox_tray: <code>:outbox_tray:</code></td><td>:heavy_check_mark: <code>:heavy_check_mark:</code></td><td></tr>
+  
+  
 </table>
 
 People
